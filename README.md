@@ -37,6 +37,8 @@ If its not the supposed utility at fault, please try some troubleshooting steps.
 ## Developers & Credits
 [7GrandDad](https://github.com/7GrandDadPGN) - Lead maintainer of the project - vaperoblox on Discord
 <br/>
+[china-dev](https://github.com/china-dev) - Skidder & Forker
+<br/>
 [rce-incorporated](https://github.com/rce-incorporated/Fiu) - Luau bytecode disassembly with modifications
 <br/>
 [Egor Skriptunoff, boatbomber, and howmanysmall](https://devforum.roblox.com/t/open-source-hashlib/416732/1) - HashLibrary for Luau
