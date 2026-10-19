@@ -17,6 +17,7 @@
 [Youtube](https://youtube.com/c/7GrandDadVape)
 
 ## Usage
+[Warning]: Universal Currently Gets Updates Only!.
 1. Download the specific scripting utility of your choice.
 2. Execute the provided loadstring below.
 ```luau
